@@ -1,0 +1,35 @@
+body {
+  background: url("https://img.olympicchannel.com/images/image/private/t_16-9_1240-700_15x/f_auto/v1538355600/primary/ojpcg2xlihwx84ipvrcw");
+  color: orange;
+  font-size: 2em;
+  font-weight: 800;
+}
+
+h1, h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: 'Passions Conflict', cursive;
+}
+
+.surfers {
+  display: flex;
+  justify-content: space-around;
+}
+
+.surfer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 200px;
+}
+
+.surfer-name {
+  position: absolute;
+}
+
+img {
+  width: 100%;
+}
